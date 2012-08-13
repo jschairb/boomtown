@@ -1,4 +1,4 @@
-BoomTown::Application.routes.draw do
+Boomtown::Application.routes.draw do
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

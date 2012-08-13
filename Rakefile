@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-BoomTown::Application.load_tasks
+Boomtown::Application.load_tasks
