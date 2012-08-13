@@ -19,8 +19,10 @@ group :assets do
   gem 'uglifier', '>= 1.0.3'
 end
 
+gem 'glowstone'
 gem 'jquery-rails'
 gem 'mongoid'
+gem 'twitter-bootstrap-rails'
 
 group :development do
   gem 'heroku'
